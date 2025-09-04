@@ -2,8 +2,8 @@
 layout: essay
 type: essay
 published: true
-title: Kahala Challenge 2010
-date: 2025-9-3
+title: Read Before You Write
+date: 2025-09-03
 labels:
   - Personal
 ---
