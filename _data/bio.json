@@ -33,25 +33,25 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": [
+      "courses": [Introduction to Computer Science I, Introduction to Computer Science II, Discrete Mathematics for Computer Science I, Discrete Mathematics for Computer Science II, Introduction to Statistics, Elementary Probability and Statistics
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Hawaii Housing Policy Foundation",
+      "position": "Data Analyst",
+      "startDate": "2025-03-01",
+      "endDate": "2025-05-01",
+      "summary": "Categorized 75,000+ housing sales over a 5 year span projecting Hawaii’s lost revenue over a billion dollars due to delays on bill implementations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Cleaned and analyzed data for small local non-profit",
+        "Projected over a billion dollars in lost revenue"
+        
       ]
     },
     {
@@ -88,24 +88,23 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Coding Director, Game Development at University of Hawaii at Manoa, 2024-Present",
+        "Competitor/Performer, Ballroom Dance Club at University of Hawaii at Manoa, 2024-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Provost Scholarship",
+      "date": "2024-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.7 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First Place",
+      "date": "2021",
+      "awarder": "Hawai'i Annual Coding Challenge",
+      "summary": "My team won first place in Hawai'i Annual Coding Challenge for our innovate web based solution.  See my portfolio site for more details."
     }
   ],
   "references": [
