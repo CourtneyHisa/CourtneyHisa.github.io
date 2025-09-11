@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: The Journey of a Thousand Steps: Debugging
+title: "The Journey of a Thousand Steps: Debugging"
 date: 2025-09-10
 labels:
   - Problem Solving
