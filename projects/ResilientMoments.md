@@ -11,7 +11,7 @@ summary: "A website to promote Resilient Moments app, Joyment."
 ---
 
 -
-<img class="img-fluid" src="..img/resilientmoments/joymentLogo.png">
+<img class="img-fluid" src="../img/resilientmoments/joymentLogo.png">
 
 I redesigned the Resilient Moments promotional website in preperation of the launch of their app, Joyment.
  
