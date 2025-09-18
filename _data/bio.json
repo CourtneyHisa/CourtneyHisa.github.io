@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "CourtneyHisa", "url": "http://github.com/CourtneyHisa" },
-      { "network": "linkedin", "username": "Courtney Hisamoto", "url": "http://linkedin.com/in/www.linkedin.com/in/courtney-hisamoto" }
+      { "network": "linkedin", "username": "Courtney Hisamoto", "url": "https://www.linkedin.com/in/courtney-hisamoto-9ab5072b2/" }
     ]
   },
   "interests": [
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": [Introduction to Computer Science I, Introduction to Computer Science II, Discrete Mathematics for Computer Science I, Discrete Mathematics for Computer Science II, Introduction to Statistics, Elementary Probability and Statistics
+      "courses": ["Introduction to Computer Science I", "Introduction to Computer Science II", "Discrete Mathematics for Computer Science I", "Discrete Mathematics for Computer Science II", "Introduction to Statistics", "Elementary Probability and Statistics"
       ]
     }
   ],
