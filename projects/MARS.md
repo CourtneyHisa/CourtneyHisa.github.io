@@ -18,7 +18,7 @@ summary: "A marine animal rescue sighting web page my team developed for the Haw
 ---
 
 -
-<img class="img-fluid" src="..img/mars/MARS-1.webp">
+<img class="img-fluid" src="../img/mars/MARS-1.webp">
 
 
 A marine animal rescue sighting web page my team developed for the Hawai'i Marine Animal Response during the 2021 Hawai'i Annual Coding Challenge
