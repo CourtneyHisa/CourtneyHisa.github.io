@@ -15,15 +15,19 @@ labels:
 
 <h1>What I See and What You Get</h1>
 
-
+<div class="row>
+  <div class="col"> 
 When first building a website using the purest forms of just html and css, it's easy to spend hours tweaking the margins and padding numbers until the website looks perfect. 
 
 <img width="300px" class="rounded float-start pe-4" src="../img/the-eye-of-the-beholder/ballroomProperScaling.png">
-
+</div>
+<div class="col">
 But as soon as window size is changed even a little, everything starts to get out of whack. 
 
 <img width="300px" class="rounded float-start pe-4" src="../img/the-eye-of-the-beholder/ballroomImproperScaling.png">
-
+</div>
+</div>
+</br>
 The first time I tried making a website was with a team of others who were all working on their own computers. We would all be tweaking the website's designs by changing the numbers to get the site to look just right. But as soon as we looked at it on another persons screen, everything looked awfully dispropotionate. No matter how many hours we spent tailoring the website to one screen, on the next it looked off once again.
 
 <h1>UI Frameworks</h1>
