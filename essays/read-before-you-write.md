@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Read Before You Write
 date: 2025-09-03
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "The Journey of a Thousand Steps: Debugging"
 date: 2025-09-10
 labels:

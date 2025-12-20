@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Why Code? Let Me Tell You"
 date: 2025-09-17
 labels:

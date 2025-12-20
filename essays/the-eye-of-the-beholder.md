@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "The Eye of the Beholder"
 date: 2025-10-08
 labels:

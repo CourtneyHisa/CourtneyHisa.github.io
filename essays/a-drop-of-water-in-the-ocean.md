@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "A Drop of Water in the Ocean: Why We Maintain Coding Standards"
 date: 2025-09-24
 labels:
