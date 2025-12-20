@@ -11,7 +11,6 @@ labels:
 <h1>How Much Time Will That Take You?</h1>
 <img width="300px" class="rounded float-start pe-4" src="../img/how-much-time-will-that-take-you/obscuredPath.jpeg">
 
-<br>
 
 <h2>How long will that take?</h2>
 

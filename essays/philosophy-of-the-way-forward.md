@@ -31,7 +31,7 @@ Well luckily in tackling problems, there’s no need to reinvent the wheel. When
 
 <br>
 
-<img width="300px" class="rounded float-start pe-4" src="../img/philosophy-of-the-way-forward/ETSLogo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/philosophy-of-the-way-forward/ETSLogo.png">
 <h2>Designing In Action: Standardizing State Reports</h2>
 
 So when working with my team on standardizing the state’s reporting system, we made sure to clearly lay out how we were building with the goals of being scalable, reusable, and organized. Instead of having each report be individually scattered about, we had each project be an umbrella over all the related reports. This allowed us to be able to centralize previous scattered information like the overarching timeline for the project. Then each report would instead focus on detailed updates, like monthly project expenditures. Having this design idea of an umbrella gave us guidance on how we were building and designing this organization system.

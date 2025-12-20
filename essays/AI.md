@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: "AI"
 date: 2025-12-15
 labels:
